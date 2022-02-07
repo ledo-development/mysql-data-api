@@ -1,18 +1,19 @@
 {
   "name": "@ledo-development/mysql-data-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![CircleCI](https://circleci.com/gh/Fyreware/mysql-data-api/tree/master.svg?style=svg)](https://circleci.com/gh/Fyreware/mysql-data-api/tree/master)",
   "main": "src/index.js",
   "scripts": {
     "test": "eslint src/",
     "fix": "eslint src/ --fix"
   },
+  "private": false,
   "keywords": [],
   "author": "Fyreware",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ledo-development/mysql-data-api"
+    "url": "git+https://github.com/ledo-development/mysql-data-api.git"
   },
   "devDependencies": {
     "aws-sdk": "^2.540.0",
@@ -24,5 +25,9 @@
     "data-api-client": "^1.0.0-beta",
     "events": "^3.0.0",
     "sqlstring": "^2.3.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/ledo-development/mysql-data-api/issues"
+  },
+  "homepage": "https://github.com/ledo-development/mysql-data-api#readme"
 }
