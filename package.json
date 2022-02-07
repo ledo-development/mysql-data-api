@@ -1,6 +1,6 @@
 {
-  "name": "@fyreware/mysql-data-api",
-  "version": "0.1.1",
+  "name": "@ledo-development/mysql-data-api",
+  "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Fyreware/mysql-data-api"
+    "url": "https://github.com/ledo-development/mysql-data-api"
   },
   "devDependencies": {
     "aws-sdk": "^2.540.0",
