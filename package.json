@@ -1,6 +1,6 @@
 {
   "name": "@ledo-development/mysql-data-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "[![CircleCI](https://circleci.com/gh/Fyreware/mysql-data-api/tree/master.svg?style=svg)](https://circleci.com/gh/Fyreware/mysql-data-api/tree/master)",
   "main": "src/index.js",
   "private": false,
